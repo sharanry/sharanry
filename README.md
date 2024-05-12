@@ -16,11 +16,9 @@ I am tinkering with:
 - Foundational Scientific Models
 
 I have previously worked on 
-- Generative Modelling tools like 
-    - [Turing.jl](https://github.com/TuringLang/Turing.jl)
-    - [AbstractGPs.jl](https://github.com/sharanry/AbstractGPs.jl)
-- Probabilistic Programming Languages like 
-    - [PyMC](https://github.com/pymc-devs/pymc)
+- [Turing.jl](https://github.com/TuringLang/Turing.jl) - A Julia based probabilistic programming language.
+- [Gaussian Processes](https://githhttps://github.com/JuliaGaussianProcesses) - A Gaussian Processes ecosytem in Julia.
+- [PyMC](https://github.com/pymc-devs/pymc) - A Python based probabilistic programming language with a TensorFlow backend.
 
 I ❤️ working with:
 - Languages: [Julia](https://julialang.org/), [Python](https://www.python.org/), [Rust](https://www.rust-lang.org/), [C++](https://en.wikipedia.org/wiki/C%2B%2B)

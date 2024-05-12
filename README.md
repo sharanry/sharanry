@@ -22,7 +22,7 @@ I have previously worked on
 - Probabilistic Programming Languages like 
     - [PyMC](https://github.com/pymc-devs/pymc)
 
-I ❤️ like working with:
+I ❤️ working with:
 - Languages: [Julia](https://julialang.org/), [Python](https://www.python.org/), [Rust](https://www.rust-lang.org/), [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 - DL: [Pytorch](https://pytorch.org/)
 - Web: [Node.js](https://nodejs.org/), [Django](https://www.djangoproject.com/)

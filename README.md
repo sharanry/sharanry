@@ -10,9 +10,10 @@ I am currently working on:
 - [JuliaSim](https://info.juliahub.com/products/juliasim) - A next-gen scientific simulation platform.
 
 I am tinkering with:
+- AI First UI/UX Design
+- Structured Generation
 - [Mimimal GUI for Ollama](https://github.com/sharanry/minimal_llm_gui)
 - [Boilerplate for LLM Finetuning](https://github.com/sharanry/llm_finetune_boilerplate)
-- DSLs for LLMs
 - Foundational Scientific Models
 
 I have previously worked on 

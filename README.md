@@ -6,8 +6,6 @@ I ❤️ building tools that help the ML/AI engineer be more productive.
 - 💬 Ask me about LLMs, generative models, SciML, Gaussian Processes, FMUs, and more.
 - 📫 How to reach me: [Email](mailto:sharanyalburgi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sharanry/) | [Twitter](https://twitter.com/sharanry)
 
-I am currently working on:
-- [JuliaSim](https://info.juliahub.com/products/juliasim) - A next-gen scientific simulation platform.
 
 I am tinkering with:
 - AI First UI/UX Design

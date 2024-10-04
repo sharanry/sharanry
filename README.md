@@ -21,7 +21,7 @@ I ❤️ working with:
 - Languages: [Julia](https://julialang.org/), [Python](https://www.python.org/), [Rust](https://www.rust-lang.org/), [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 - DL: [Pytorch](https://pytorch.org/)
 - LLMs: 
-  - Outputs: [Outlines](https://outlines-dev.github.io/outlines/)
+  - Outputs: [guidance](https://github.com/guidance-ai/guidance), [Outlines](https://outlines-dev.github.io/outlines/)
   - Inputs: [DSPy](https://dspy-docs.vercel.app/)
 - ProbML: [AbstractGPs.jl](https://github.com/JuliaGaussianProcesses/AbstractGPs.jl), [Turing.jl](https://github.com/TuringLang/Turing.jl)
 - SciML: [OrdinaryDiffEq.jl](https://github.com/SciML/OrdinaryDiffEq.jl)

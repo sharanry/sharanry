@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I ❤️ building tools that help the ML/AI engineer be more productive.
+I ❤️ building.
 
 
 - 💬 Ask me about LLMs, (prob) generative models, GPUs, SciML, Gaussian Processes, FMUs, and more.

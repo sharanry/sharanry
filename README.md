@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I ❤️ building.
+I ❤️ building. Currently building [Wilson](https://www.getwilson.ai/) - cursor like agent for lawyers.
 
 
 - 💬 Ask me about LLMs, (prob) generative models, GPUs, SciML, Gaussian Processes, FMUs, and more.
@@ -12,14 +12,15 @@ I am tinkering with:
 - Mechanistic Interpretability
 
 I have previously worked on 
+- [SciML](github.com/sciml/)
 - [Turing.jl](https://github.com/TuringLang/Turing.jl) - A Julia based probabilistic programming language.
 - [Gaussian Processes](https://githhttps://github.com/JuliaGaussianProcesses) - A Gaussian Processes ecosytem in Julia.
 - [PyMC](https://github.com/pymc-devs/pymc) - A Python based probabilistic programming language with a TensorFlow backend.
 
 I ❤️ working with:
-- Languages: [Julia](https://julialang.org/), [Python](https://www.python.org/), [Rust](https://www.rust-lang.org/), [C++](https://en.wikipedia.org/wiki/C%2B%2B)
+- Languages: [TypeScript](https://www.typescriptlang.org/), [Python](https://www.python.org/), [Julia](https://julialang.org/), [Rust](https://www.rust-lang.org/), [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 - DL: [Pytorch](https://pytorch.org/)
+- Web: [Node.js](https://nodejs.org/), React, [Django](https://www.djangoproject.com/)
 - ProbML: [AbstractGPs.jl](https://github.com/JuliaGaussianProcesses/AbstractGPs.jl), [Turing.jl](https://github.com/TuringLang/Turing.jl)
 - SciML: [OrdinaryDiffEq.jl](https://github.com/SciML/OrdinaryDiffEq.jl)
-- Web: [Node.js](https://nodejs.org/), [Django](https://www.djangoproject.com/)
 

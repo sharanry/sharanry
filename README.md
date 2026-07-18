@@ -1,13 +1,14 @@
 ### Hi there 👋
 
-I ❤️ building. Currently building [Wilson](https://www.getwilson.ai/) - cursor like agent for lawyers.
+I am currently building [Claren](https://claren.law/) - AI Harness for blazing fast legal teams.
 
 
-- 💬 Ask me about LLMs, (prob) generative models, GPUs, SciML, Gaussian Processes, FMUs, and more.
+- 💬 Ask me about LLMs, (prob) generative models, GPUs, SciML, and Gaussian Processes.
 - 📫 How to reach me: [Email](mailto:sharanyalburgi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sharanry/) | [Twitter](https://twitter.com/sharanry)
 
 
 I am tinkering with:
+- Rust
 - GPUs
 - Mechanistic Interpretability
 
@@ -18,9 +19,9 @@ I have previously worked on
 - [PyMC](https://github.com/pymc-devs/pymc) - A Python based probabilistic programming language with a TensorFlow backend.
 
 I ❤️ working with:
+- Harness: Pi 
 - Languages: [TypeScript](https://www.typescriptlang.org/), [Python](https://www.python.org/), [Julia](https://julialang.org/), [Rust](https://www.rust-lang.org/), [C++](https://en.wikipedia.org/wiki/C%2B%2B)
-- DL: [Pytorch](https://pytorch.org/)
-- Web: [Node.js](https://nodejs.org/), React, [Django](https://www.djangoproject.com/)
+- Web: [Node.js](https://nodejs.org/), React
 - ProbML: [AbstractGPs.jl](https://github.com/JuliaGaussianProcesses/AbstractGPs.jl), [Turing.jl](https://github.com/TuringLang/Turing.jl)
 - SciML: [OrdinaryDiffEq.jl](https://github.com/SciML/OrdinaryDiffEq.jl)
 
